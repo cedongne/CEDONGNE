@@ -3,8 +3,7 @@
   
 ![TITLE_HIGH_LOW_HEIGHT](https://user-images.githubusercontent.com/57585303/173343477-fb233440-a356-4a22-97a5-f6cbe6d5924a.png)
 
-  
-[![cedongne's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=cedongne)](https://velog.io/@cedongne) 
+[<img src="https://img.shields.io/badge/cedongne's velog-20C997?style=flat-square&logo=velog&logoColor=white"/>](https://velog.io/@cedongne)
 
 </div>
 
