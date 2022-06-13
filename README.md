@@ -1,7 +1,7 @@
 
 <div align="center"> 
-
-![TITLE_HIGH](https://user-images.githubusercontent.com/57585303/173342802-f327b36c-e82f-4661-8149-b02c981d634e.png)
+  
+![TITLE_HIGH_LOW_HEIGHT](https://user-images.githubusercontent.com/57585303/173343357-cf52f6b0-524d-47c9-a92b-d4093294b2f8.png)
   
 [![cedongne's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=cedongne)](https://velog.io/@cedongne) 
 
