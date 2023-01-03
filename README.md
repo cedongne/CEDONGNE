@@ -9,7 +9,7 @@
 
 ---
 
-<h3 align = "center">GAME CLIENT PROGRAMMER</h3> 
+<h3 align = "center">GAME SERVER PROGRAMMER</h3> 
 
 <div align="center">
  
